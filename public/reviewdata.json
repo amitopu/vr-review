@@ -1,0 +1,102 @@
+[
+  {
+    "id": "624b28d8f936b1e1f78a0435",
+    "picture": "images/0.jpg",
+    "name": "Brittany Bailey",
+    "company": "UNISURE",
+    "email": "brittanybailey@unisure.com",
+    "address": "903 Garden Place, Kerby, Connecticut",
+    "review": "Ad non aliquip Lorem dolor ea irure magna irure laborum cupidatat consequat exercitation deserunt eu. Cillum mollit sint laborum velit non elit laboris do.",
+    "rating": 4
+  },
+  {
+    "id": "624b28d898cffaf84ba6a400",
+    "picture": "images/1.jpg",
+    "name": "Mcneil Bray",
+    "company": "TRIPSCH",
+    "email": "mcneilbray@tripsch.com",
+    "address": "930 Green Street, Sabillasville, Colorado",
+    "review": "Consectetur amet excepteur culpa incididunt duis ipsum proident minim. Consequat culpa sunt magna do sunt consequat irure qui velit labore.",
+    "rating": 4.2
+  },
+  {
+    "id": "624b28d8b83acea9aa9de7d7",
+    "picture": "images/2.jpg",
+    "name": "Mavis Miranda",
+    "company": "ENTHAZE",
+    "email": "mavismiranda@enthaze.com",
+    "address": "784 Lester Court, Barrelville, Hawaii",
+    "review": "Sunt consectetur cillum voluptate nostrud ex sint. Consectetur velit incididunt esse dolor.",
+    "rating": 4.2
+  },
+  {
+    "id": "624b28d803bebba93f2d516f",
+    "picture": "images/3.jpg",
+    "name": "Jolene Guthrie",
+    "company": "SCENTRIC",
+    "email": "joleneguthrie@scentric.com",
+    "address": "135 Remsen Street, Kersey, Ohio",
+    "review": "Enim aliqua amet reprehenderit duis excepteur cillum laborum ut incididunt dolore labore. Adipisicing ea cillum anim pariatur in ullamco commodo laborum.",
+    "rating": 4.3
+  },
+  {
+    "id": "624b28d88a4ff64479dc8639",
+    "picture": "images/4.jpg",
+    "name": "Vaughan Hess",
+    "company": "QUILTIGEN",
+    "email": "vaughanhess@quiltigen.com",
+    "address": "174 Bokee Court, National, Arkansas",
+    "review": "Consectetur non enim mollit eiusmod laboris excepteur adipisicing. Aute commodo magna proident laborum occaecat do mollit do et ut.",
+    "rating": 4.9
+  },
+  {
+    "id": "624b28d8df392ee12a5de8f9",
+    "picture": "images/5.jpg",
+    "name": "Woodward Maynard",
+    "company": "COMTRAK",
+    "email": "woodwardmaynard@comtrak.com",
+    "address": "365 Metrotech Courtr, Wilsonia, Montana",
+    "review": "Ea et sit qui aliquip. Nulla Lorem culpa duis culpa ullamco ad enim.",
+    "rating": 4.9
+  },
+  {
+    "id": "624b28d8b9f446f9f732d591",
+    "picture": "images/6.jpg",
+    "name": "Paulette Villarreal",
+    "company": "CORIANDER",
+    "email": "paulettevillarreal@coriander.com",
+    "address": "325 Dekoven Court, Spelter, Michigan",
+    "review": "Proident ipsum enim id proident cillum consectetur laborum non dolor. Aliqua elit et qui quis commodo aliquip et dolor.",
+    "rating": 4.4
+  },
+  {
+    "id": "624b28d87f561974a591facf",
+    "picture": "images/7.jpg",
+    "name": "Doris Heath",
+    "company": "ECRATER",
+    "email": "dorisheath@ecrater.com",
+    "address": "623 Logan Street, Cetronia, Virginia",
+    "review": "Dolor ea id tempor aliquip. Officia ex ad non eiusmod veniam adipisicing aute tempor est do tempor enim ad.",
+    "rating": 4.7
+  },
+  {
+    "id": "624b28d8ba584f91e26891b8",
+    "picture": "images/8.jpg",
+    "name": "Eve Boyle",
+    "company": "EDECINE",
+    "email": "eveboyle@edecine.com",
+    "address": "978 Celeste Court, Naomi, Guam",
+    "review": "Eiusmod velit eu nostrud sint ex aute ut exercitation. Et irure velit irure nisi et veniam dolor dolor.",
+    "rating": 4.6
+  },
+  {
+    "id": "624b28d8e7cf9e3324e0df6f",
+    "picture": "images/9.jpg",
+    "name": "Carlson Harrison",
+    "company": "ROUGHIES",
+    "email": "carlsonharrison@roughies.com",
+    "address": "305 Delmonico Place, Ebro, Wyoming",
+    "review": "Ex consequat eu veniam nulla consectetur. Laboris pariatur ad voluptate mollit cillum proident.",
+    "rating": 4.1
+  }
+]
