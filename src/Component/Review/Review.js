@@ -2,7 +2,6 @@ import React from "react";
 
 const Reviews = (props) => {
     const { name, picture, review, rating } = props.review;
-    console.log(props.review);
     return (
         <div className="mt-16 w-[300px] border-2 border-slate-800 rounded-[10px] p-4">
             <div className="h-20 w-20 mx-auto">

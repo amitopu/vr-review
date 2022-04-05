@@ -1,7 +1,14 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
+import Reviews from "../Reviews/Reviews";
 import "./Home.css";
 
 const Home = () => {
+    let navigate = useNavigate();
+    const goToReview = (num) => {
+        let path = `/reviews`;
+        navigate(path);
+    };
     return (
         <main>
             <div className="mx-auto flex justify-start mt-16">
@@ -29,6 +36,16 @@ const Home = () => {
                         alt="A person wearing vr headset and enjoing"
                     />
                 </div>
+            </div>
+            <div>
+                <h1 className="text-center mt-16 text-3xl">Our Reviews</h1>
+                <Reviews num={3}></Reviews>
+                <button
+                    onClick={goToReview}
+                    className="my-6 text-xl font-bold text-white h-12 w-44 bg-fuchsia-700 rounded"
+                >
+                    See All Reviews
+                </button>
             </div>
         </main>
     );
